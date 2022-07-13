@@ -1,0 +1,2687 @@
+[
+  {
+    "Category": "Business",
+    "Name": "Glassdoor",
+    "Error": "Item descriptions"
+  },
+  {
+    "Category": "Business",
+    "Name": "Glassdoor",
+    "Error": "Text contrast"
+  },
+  {
+    "Category": "Business",
+    "Name": "Glassdoor",
+    "Error": "Item label"
+  },
+  {
+    "Category": "Business",
+    "Name": "Glassdoor",
+    "Error": "Item type label"
+  },
+  {
+    "Category": "Business",
+    "Name": "Glassdoor",
+    "Error": "Clickable items"
+  },
+  {
+    "Category": "Business",
+    "Name": "Glassdoor",
+    "Error": "Touch target"
+  },
+  {
+    "Category": "Business",
+    "Name": "Glassdoor",
+    "Error": "Image contrast"
+  },
+  {
+    "Category": "Business",
+    "Name": "Job Search",
+    "Error": "Text contrast"
+  },
+  {
+    "Category": "Business",
+    "Name": "Job Search",
+    "Error": "Item descriptions"
+  },
+  {
+    "Category": "Business",
+    "Name": "Job Search",
+    "Error": "Touch target"
+  },
+  {
+    "Category": "Business",
+    "Name": "Job Search",
+    "Error": "Item label"
+  },
+  {
+    "Category": "Business",
+    "Name": "Job Search",
+    "Error": "Clickable items"
+  },
+  {
+    "Category": "Business",
+    "Name": "LinkedIn Job Search",
+    "Error": "Touch target"
+  },
+  {
+    "Category": "Business",
+    "Name": "LinkedIn Job Search",
+    "Error": "Item descriptions"
+  },
+  {
+    "Category": "Business",
+    "Name": "LinkedIn Job Search",
+    "Error": "Text contrast"
+  },
+  {
+    "Category": "Business",
+    "Name": "LinkedIn Job Search",
+    "Error": "Item label"
+  },
+  {
+    "Category": "Business",
+    "Name": "LinkedIn Job Search",
+    "Error": "Image contrast"
+  },
+  {
+    "Category": "Business",
+    "Name": "Sideline",
+    "Error": "Item descriptions"
+  },
+  {
+    "Category": "Business",
+    "Name": "Sideline",
+    "Error": "Text contrast"
+  },
+  {
+    "Category": "Business",
+    "Name": "Sideline",
+    "Error": "Item label"
+  },
+  {
+    "Category": "Business",
+    "Name": "Sideline",
+    "Error": "Clickable items"
+  },
+  {
+    "Category": "Business",
+    "Name": "Sideline",
+    "Error": "Touch target"
+  },
+  {
+    "Category": "Business",
+    "Name": "Sideline",
+    "Error": "Image contrast"
+  },
+  {
+    "Category": "Business",
+    "Name": "Slack",
+    "Error": "Item descriptions"
+  },
+  {
+    "Category": "Business",
+    "Name": "Slack",
+    "Error": "Text contrast"
+  },
+  {
+    "Category": "Business",
+    "Name": "Slack",
+    "Error": "Item label"
+  },
+  {
+    "Category": "Business",
+    "Name": "Slack",
+    "Error": "Item type label"
+  },
+  {
+    "Category": "Business",
+    "Name": "Slack",
+    "Error": "Clickable items"
+  },
+  {
+    "Category": "Business",
+    "Name": "Slack",
+    "Error": "Touch target"
+  },
+  {
+    "Category": "Business",
+    "Name": "Snagajob",
+    "Error": "Item descriptions"
+  },
+  {
+    "Category": "Business",
+    "Name": "Snagajob",
+    "Error": "Text contrast"
+  },
+  {
+    "Category": "Business",
+    "Name": "Snagajob",
+    "Error": "Item label"
+  },
+  {
+    "Category": "Business",
+    "Name": "Snagajob",
+    "Error": "Item type label"
+  },
+  {
+    "Category": "Business",
+    "Name": "Snagajob",
+    "Error": "Clickable items"
+  },
+  {
+    "Category": "Business",
+    "Name": "Snagajob",
+    "Error": "Touch target"
+  },
+  {
+    "Category": "Business",
+    "Name": "Snagajob",
+    "Error": "Image contrast"
+  },
+  {
+    "Category": "Business",
+    "Name": "TinyScanner",
+    "Error": "Text contrast"
+  },
+  {
+    "Category": "Business",
+    "Name": "TinyScanner",
+    "Error": "Item descriptions"
+  },
+  {
+    "Category": "Business",
+    "Name": "TinyScanner",
+    "Error": "Touch target"
+  },
+  {
+    "Category": "Business",
+    "Name": "TinyScanner",
+    "Error": "Item label"
+  },
+  {
+    "Category": "Business",
+    "Name": "TinyScanner",
+    "Error": "Image contrast"
+  },
+  {
+    "Category": "Business",
+    "Name": "UPS",
+    "Error": "Touch target"
+  },
+  {
+    "Category": "Business",
+    "Name": "UPS",
+    "Error": "Clickable items"
+  },
+  {
+    "Category": "Business",
+    "Name": "UPS",
+    "Error": "Text contrast"
+  },
+  {
+    "Category": "Business",
+    "Name": "UPS",
+    "Error": "Item label"
+  },
+  {
+    "Category": "Business",
+    "Name": "UPS",
+    "Error": "Item descriptions"
+  },
+  {
+    "Category": "Business",
+    "Name": "ZipRecruiter",
+    "Error": "Item descriptions"
+  },
+  {
+    "Category": "Business",
+    "Name": "ZipRecruiter",
+    "Error": "Text contrast"
+  },
+  {
+    "Category": "Business",
+    "Name": "ZipRecruiter",
+    "Error": "Item label"
+  },
+  {
+    "Category": "Business",
+    "Name": "ZipRecruiter",
+    "Error": "Clickable items"
+  },
+  {
+    "Category": "Business",
+    "Name": "ZipRecruiter",
+    "Error": "Touch target"
+  },
+  {
+    "Category": "Business",
+    "Name": "ZipRecruiter",
+    "Error": "Image contrast"
+  },
+  {
+    "Category": "Business",
+    "Name": "Zoom",
+    "Error": "Editable item label"
+  },
+  {
+    "Category": "Business",
+    "Name": "Zoom",
+    "Error": "Item descriptions"
+  },
+  {
+    "Category": "Business",
+    "Name": "Zoom",
+    "Error": "Text contrast"
+  },
+  {
+    "Category": "Business",
+    "Name": "Zoom",
+    "Error": "Item label"
+  },
+  {
+    "Category": "Business",
+    "Name": "Zoom",
+    "Error": "Touch target"
+  },
+  {
+    "Category": "Business",
+    "Name": "Zoom",
+    "Error": "Image contrast"
+  },
+  {
+    "Category": "Communication",
+    "Name": "Discord",
+    "Error": "Item descriptions"
+  },
+  {
+    "Category": "Communication",
+    "Name": "Discord",
+    "Error": "Text contrast"
+  },
+  {
+    "Category": "Communication",
+    "Name": "Discord",
+    "Error": "Item label"
+  },
+  {
+    "Category": "Communication",
+    "Name": "Discord",
+    "Error": "Clickable items"
+  },
+  {
+    "Category": "Communication",
+    "Name": "Discord",
+    "Error": "Touch target"
+  },
+  {
+    "Category": "Communication",
+    "Name": "Discord",
+    "Error": "Image contrast"
+  },
+  {
+    "Category": "Communication",
+    "Name": "Duo",
+    "Error": "Editable item label"
+  },
+  {
+    "Category": "Communication",
+    "Name": "Duo",
+    "Error": "Item descriptions"
+  },
+  {
+    "Category": "Communication",
+    "Name": "Duo",
+    "Error": "Text contrast"
+  },
+  {
+    "Category": "Communication",
+    "Name": "Duo",
+    "Error": "Image contrast"
+  },
+  {
+    "Category": "Communication",
+    "Name": "Firefox",
+    "Error": "Editable item label"
+  },
+  {
+    "Category": "Communication",
+    "Name": "Firefox",
+    "Error": "Item descriptions"
+  },
+  {
+    "Category": "Communication",
+    "Name": "Firefox",
+    "Error": "Text contrast"
+  },
+  {
+    "Category": "Communication",
+    "Name": "Firefox",
+    "Error": "Item label"
+  },
+  {
+    "Category": "Communication",
+    "Name": "Firefox",
+    "Error": "Clickable items"
+  },
+  {
+    "Category": "Communication",
+    "Name": "Firefox",
+    "Error": "Touch target"
+  },
+  {
+    "Category": "Communication",
+    "Name": "GroupMe",
+    "Error": "Editable item label"
+  },
+  {
+    "Category": "Communication",
+    "Name": "GroupMe",
+    "Error": "Item descriptions"
+  },
+  {
+    "Category": "Communication",
+    "Name": "GroupMe",
+    "Error": "Text contrast"
+  },
+  {
+    "Category": "Communication",
+    "Name": "GroupMe",
+    "Error": "Item label"
+  },
+  {
+    "Category": "Communication",
+    "Name": "GroupMe",
+    "Error": "Item type label"
+  },
+  {
+    "Category": "Communication",
+    "Name": "GroupMe",
+    "Error": "Clickable items"
+  },
+  {
+    "Category": "Communication",
+    "Name": "GroupMe",
+    "Error": "Touch target"
+  },
+  {
+    "Category": "Communication",
+    "Name": "GroupMe",
+    "Error": "Image contrast"
+  },
+  {
+    "Category": "Communication",
+    "Name": "imo",
+    "Error": "Touch target"
+  },
+  {
+    "Category": "Communication",
+    "Name": "imo",
+    "Error": "Clickable items"
+  },
+  {
+    "Category": "Communication",
+    "Name": "imo",
+    "Error": "Text contrast"
+  },
+  {
+    "Category": "Communication",
+    "Name": "imo",
+    "Error": "Item label"
+  },
+  {
+    "Category": "Communication",
+    "Name": "Kik",
+    "Error": "Item descriptions"
+  },
+  {
+    "Category": "Communication",
+    "Name": "Kik",
+    "Error": "Text contrast"
+  },
+  {
+    "Category": "Communication",
+    "Name": "Kik",
+    "Error": "Item label"
+  },
+  {
+    "Category": "Communication",
+    "Name": "Kik",
+    "Error": "Clickable items"
+  },
+  {
+    "Category": "Communication",
+    "Name": "Kik",
+    "Error": "Touch target"
+  },
+  {
+    "Category": "Communication",
+    "Name": "Kik",
+    "Error": "Image contrast"
+  },
+  {
+    "Category": "Communication",
+    "Name": "Marco Polo",
+    "Error": "Item descriptions"
+  },
+  {
+    "Category": "Communication",
+    "Name": "Marco Polo",
+    "Error": "Text contrast"
+  },
+  {
+    "Category": "Communication",
+    "Name": "Marco Polo",
+    "Error": "Item label"
+  },
+  {
+    "Category": "Communication",
+    "Name": "Marco Polo",
+    "Error": "Clickable items"
+  },
+  {
+    "Category": "Communication",
+    "Name": "Marco Polo",
+    "Error": "Touch target"
+  },
+  {
+    "Category": "Communication",
+    "Name": "Marco Polo",
+    "Error": "Image contrast"
+  },
+  {
+    "Category": "Communication",
+    "Name": "Messenger",
+    "Error": "Item descriptions"
+  },
+  {
+    "Category": "Communication",
+    "Name": "Messenger",
+    "Error": "Text contrast"
+  },
+  {
+    "Category": "Communication",
+    "Name": "Messenger",
+    "Error": "Item label"
+  },
+  {
+    "Category": "Communication",
+    "Name": "Messenger",
+    "Error": "Clickable items"
+  },
+  {
+    "Category": "Communication",
+    "Name": "Messenger",
+    "Error": "Touch target"
+  },
+  {
+    "Category": "Communication",
+    "Name": "Messenger",
+    "Error": "Image contrast"
+  },
+  {
+    "Category": "Communication",
+    "Name": "Skype",
+    "Error": "Editable item label"
+  },
+  {
+    "Category": "Communication",
+    "Name": "Skype",
+    "Error": "Item descriptions"
+  },
+  {
+    "Category": "Communication",
+    "Name": "Skype",
+    "Error": "Text contrast"
+  },
+  {
+    "Category": "Communication",
+    "Name": "Skype",
+    "Error": "Item label"
+  },
+  {
+    "Category": "Communication",
+    "Name": "Skype",
+    "Error": "Item type label"
+  },
+  {
+    "Category": "Communication",
+    "Name": "Skype",
+    "Error": "Touch target"
+  },
+  {
+    "Category": "Communication",
+    "Name": "Skype",
+    "Error": "Image contrast"
+  },
+  {
+    "Category": "Communication",
+    "Name": "Yahoo Mail",
+    "Error": "Item descriptions"
+  },
+  {
+    "Category": "Communication",
+    "Name": "Yahoo Mail",
+    "Error": "Text contrast"
+  },
+  {
+    "Category": "Communication",
+    "Name": "Yahoo Mail",
+    "Error": "Item label"
+  },
+  {
+    "Category": "Communication",
+    "Name": "Yahoo Mail",
+    "Error": "Item type label"
+  },
+  {
+    "Category": "Communication",
+    "Name": "Yahoo Mail",
+    "Error": "Touch target"
+  },
+  {
+    "Category": "Communication",
+    "Name": "Yahoo Mail",
+    "Error": "Image contrast"
+  },
+  {
+    "Category": "Education",
+    "Name": "ClassDojo",
+    "Error": "Touch target"
+  },
+  {
+    "Category": "Education",
+    "Name": "ClassDojo",
+    "Error": "Item descriptions"
+  },
+  {
+    "Category": "Education",
+    "Name": "ClassDojo",
+    "Error": "Text contrast"
+  },
+  {
+    "Category": "Education",
+    "Name": "ClassDojo",
+    "Error": "Image contrast"
+  },
+  {
+    "Category": "Education",
+    "Name": "ClassDojo",
+    "Error": "Item label"
+  },
+  {
+    "Category": "Education",
+    "Name": "Draw Animal",
+    "Error": "Text contrast"
+  },
+  {
+    "Category": "Education",
+    "Name": "Draw Animal",
+    "Error": "Clickable items"
+  },
+  {
+    "Category": "Education",
+    "Name": "Draw Animal",
+    "Error": "Touch target"
+  },
+  {
+    "Category": "Education",
+    "Name": "Draw Animal",
+    "Error": "Item label"
+  },
+  {
+    "Category": "Education",
+    "Name": "Draw Animal",
+    "Error": "Image contrast"
+  },
+  {
+    "Category": "Education",
+    "Name": "Duolingo",
+    "Error": "Touch target"
+  },
+  {
+    "Category": "Education",
+    "Name": "Duolingo",
+    "Error": "Item descriptions"
+  },
+  {
+    "Category": "Education",
+    "Name": "Duolingo",
+    "Error": "Text contrast"
+  },
+  {
+    "Category": "Education",
+    "Name": "Duolingo",
+    "Error": "Image contrast"
+  },
+  {
+    "Category": "Education",
+    "Name": "Duolingo",
+    "Error": "Item label"
+  },
+  {
+    "Category": "Education",
+    "Name": "Photomath",
+    "Error": "Item descriptions"
+  },
+  {
+    "Category": "Education",
+    "Name": "Photomath",
+    "Error": "Text contrast"
+  },
+  {
+    "Category": "Education",
+    "Name": "Photomath",
+    "Error": "Item label"
+  },
+  {
+    "Category": "Education",
+    "Name": "Photomath",
+    "Error": "Clickable items"
+  },
+  {
+    "Category": "Education",
+    "Name": "Photomath",
+    "Error": "Touch target"
+  },
+  {
+    "Category": "Education",
+    "Name": "Photomath",
+    "Error": "Image contrast"
+  },
+  {
+    "Category": "Education",
+    "Name": "Quizlet",
+    "Error": "Editable item label"
+  },
+  {
+    "Category": "Education",
+    "Name": "Quizlet",
+    "Error": "Item descriptions"
+  },
+  {
+    "Category": "Education",
+    "Name": "Quizlet",
+    "Error": "Text contrast"
+  },
+  {
+    "Category": "Education",
+    "Name": "Quizlet",
+    "Error": "Item label"
+  },
+  {
+    "Category": "Education",
+    "Name": "Quizlet",
+    "Error": "Touch target"
+  },
+  {
+    "Category": "Education",
+    "Name": "Quizlet",
+    "Error": "Image contrast"
+  },
+  {
+    "Category": "Education",
+    "Name": "Remind",
+    "Error": "Item descriptions"
+  },
+  {
+    "Category": "Education",
+    "Name": "Remind",
+    "Error": "Text contrast"
+  },
+  {
+    "Category": "Education",
+    "Name": "Remind",
+    "Error": "Item label"
+  },
+  {
+    "Category": "Education",
+    "Name": "Remind",
+    "Error": "Clickable items"
+  },
+  {
+    "Category": "Education",
+    "Name": "Remind",
+    "Error": "Touch target"
+  },
+  {
+    "Category": "Education",
+    "Name": "Remind",
+    "Error": "Image contrast"
+  },
+  {
+    "Category": "Education",
+    "Name": "Starfall.com",
+    "Error": "Item label"
+  },
+  {
+    "Category": "Education",
+    "Name": "Toca Kitchen",
+    "Error": "Item label"
+  },
+  {
+    "Category": "Education",
+    "Name": "Watch Videos",
+    "Error": "Text contrast"
+  },
+  {
+    "Category": "Education",
+    "Name": "Watch Videos",
+    "Error": "Item descriptions"
+  },
+  {
+    "Category": "Education",
+    "Name": "Watch Videos",
+    "Error": "Touch target"
+  },
+  {
+    "Category": "Education",
+    "Name": "Watch Videos",
+    "Error": "Item label"
+  },
+  {
+    "Category": "Education",
+    "Name": "Watch Videos",
+    "Error": "Image contrast"
+  },
+  {
+    "Category": "Education",
+    "Name": "Yousician",
+    "Error": "Item label"
+  },
+  {
+    "Category": "Entertainment",
+    "Name": "Bitmoji",
+    "Error": "Touch target"
+  },
+  {
+    "Category": "Entertainment",
+    "Name": "Bitmoji",
+    "Error": "Item descriptions"
+  },
+  {
+    "Category": "Entertainment",
+    "Name": "Bitmoji",
+    "Error": "Text contrast"
+  },
+  {
+    "Category": "Entertainment",
+    "Name": "Bitmoji",
+    "Error": "Image contrast"
+  },
+  {
+    "Category": "Entertainment",
+    "Name": "Bitmoji",
+    "Error": "Item label"
+  },
+  {
+    "Category": "Entertainment",
+    "Name": "Boomerang",
+    "Error": "Item descriptions"
+  },
+  {
+    "Category": "Entertainment",
+    "Name": "Boomerang",
+    "Error": "Text contrast"
+  },
+  {
+    "Category": "Entertainment",
+    "Name": "Boomerang",
+    "Error": "Item label"
+  },
+  {
+    "Category": "Entertainment",
+    "Name": "Boomerang",
+    "Error": "Item type label"
+  },
+  {
+    "Category": "Entertainment",
+    "Name": "Boomerang",
+    "Error": "Touch target"
+  },
+  {
+    "Category": "Entertainment",
+    "Name": "Boomerang",
+    "Error": "Image contrast"
+  },
+  {
+    "Category": "Entertainment",
+    "Name": "FOX NOW",
+    "Error": "Item type label"
+  },
+  {
+    "Category": "Entertainment",
+    "Name": "FOX NOW",
+    "Error": "Item descriptions"
+  },
+  {
+    "Category": "Entertainment",
+    "Name": "FOX NOW",
+    "Error": "Touch target"
+  },
+  {
+    "Category": "Entertainment",
+    "Name": "FOX NOW",
+    "Error": "Item label"
+  },
+  {
+    "Category": "Entertainment",
+    "Name": "FOX NOW",
+    "Error": "Clickable items"
+  },
+  {
+    "Category": "Entertainment",
+    "Name": "Google Play Games",
+    "Error": "Item descriptions"
+  },
+  {
+    "Category": "Entertainment",
+    "Name": "Google Play Games",
+    "Error": "Text contrast"
+  },
+  {
+    "Category": "Entertainment",
+    "Name": "Google Play Games",
+    "Error": "Item label"
+  },
+  {
+    "Category": "Entertainment",
+    "Name": "Google Play Games",
+    "Error": "Clickable items"
+  },
+  {
+    "Category": "Entertainment",
+    "Name": "Google Play Games",
+    "Error": "Touch target"
+  },
+  {
+    "Category": "Entertainment",
+    "Name": "Google Play Games",
+    "Error": "Image contrast"
+  },
+  {
+    "Category": "Entertainment",
+    "Name": "iFunny",
+    "Error": "Text contrast"
+  },
+  {
+    "Category": "Entertainment",
+    "Name": "iFunny",
+    "Error": "Touch target"
+  },
+  {
+    "Category": "Entertainment",
+    "Name": "iFunny",
+    "Error": "Item label"
+  },
+  {
+    "Category": "Entertainment",
+    "Name": "iFunny",
+    "Error": "Image contrast"
+  },
+  {
+    "Category": "Entertainment",
+    "Name": "Nick",
+    "Error": "Item descriptions"
+  },
+  {
+    "Category": "Entertainment",
+    "Name": "Nick",
+    "Error": "Text contrast"
+  },
+  {
+    "Category": "Entertainment",
+    "Name": "Nick",
+    "Error": "Item label"
+  },
+  {
+    "Category": "Entertainment",
+    "Name": "Nick",
+    "Error": "Item type label"
+  },
+  {
+    "Category": "Entertainment",
+    "Name": "Nick",
+    "Error": "Touch target"
+  },
+  {
+    "Category": "Entertainment",
+    "Name": "Nick",
+    "Error": "Image contrast"
+  },
+  {
+    "Category": "Entertainment",
+    "Name": "The Voice Official App",
+    "Error": "Item descriptions"
+  },
+  {
+    "Category": "Entertainment",
+    "Name": "The Voice Official App",
+    "Error": "Text contrast"
+  },
+  {
+    "Category": "Entertainment",
+    "Name": "The Voice Official App",
+    "Error": "Item label"
+  },
+  {
+    "Category": "Entertainment",
+    "Name": "The Voice Official App",
+    "Error": "Item type label"
+  },
+  {
+    "Category": "Entertainment",
+    "Name": "The Voice Official App",
+    "Error": "Clickable items"
+  },
+  {
+    "Category": "Entertainment",
+    "Name": "The Voice Official App",
+    "Error": "Touch target"
+  },
+  {
+    "Category": "Entertainment",
+    "Name": "Tubi TV",
+    "Error": "Item descriptions"
+  },
+  {
+    "Category": "Entertainment",
+    "Name": "Tubi TV",
+    "Error": "Text contrast"
+  },
+  {
+    "Category": "Entertainment",
+    "Name": "Tubi TV",
+    "Error": "Item label"
+  },
+  {
+    "Category": "Entertainment",
+    "Name": "Tubi TV",
+    "Error": "Item type label"
+  },
+  {
+    "Category": "Entertainment",
+    "Name": "Tubi TV",
+    "Error": "Clickable items"
+  },
+  {
+    "Category": "Entertainment",
+    "Name": "Tubi TV",
+    "Error": "Touch target"
+  },
+  {
+    "Category": "Entertainment",
+    "Name": "Tubi TV",
+    "Error": "Image contrast"
+  },
+  {
+    "Category": "Entertainment",
+    "Name": "VRV",
+    "Error": "Item descriptions"
+  },
+  {
+    "Category": "Entertainment",
+    "Name": "VRV",
+    "Error": "Text contrast"
+  },
+  {
+    "Category": "Entertainment",
+    "Name": "VRV",
+    "Error": "Item label"
+  },
+  {
+    "Category": "Entertainment",
+    "Name": "VRV",
+    "Error": "Item type label"
+  },
+  {
+    "Category": "Entertainment",
+    "Name": "VRV",
+    "Error": "Clickable items"
+  },
+  {
+    "Category": "Entertainment",
+    "Name": "VRV",
+    "Error": "Touch target"
+  },
+  {
+    "Category": "Entertainment",
+    "Name": "VRV",
+    "Error": "Image contrast"
+  },
+  {
+    "Category": "Entertainment",
+    "Name": "YT Kids",
+    "Error": "Text contrast"
+  },
+  {
+    "Category": "Entertainment",
+    "Name": "YT Kids",
+    "Error": "Item type label"
+  },
+  {
+    "Category": "Entertainment",
+    "Name": "YT Kids",
+    "Error": "Clickable items"
+  },
+  {
+    "Category": "Entertainment",
+    "Name": "YT Kids",
+    "Error": "Touch target"
+  },
+  {
+    "Category": "Entertainment",
+    "Name": "YT Kids",
+    "Error": "Item descriptions"
+  },
+  {
+    "Category": "Health and Fitness",
+    "Name": "30 Day Fitness Challenge",
+    "Error": "Touch target"
+  },
+  {
+    "Category": "Health and Fitness",
+    "Name": "30 Day Fitness Challenge",
+    "Error": "Item descriptions"
+  },
+  {
+    "Category": "Health and Fitness",
+    "Name": "30 Day Fitness Challenge",
+    "Error": "Text contrast"
+  },
+  {
+    "Category": "Health and Fitness",
+    "Name": "30 Day Fitness Challenge",
+    "Error": "Item label"
+  },
+  {
+    "Category": "Health and Fitness",
+    "Name": "30 Day Fitness Challenge",
+    "Error": "Image contrast"
+  },
+  {
+    "Category": "Health and Fitness",
+    "Name": "8fit",
+    "Error": "Touch target"
+  },
+  {
+    "Category": "Health and Fitness",
+    "Name": "8fit",
+    "Error": "Item descriptions"
+  },
+  {
+    "Category": "Health and Fitness",
+    "Name": "8fit",
+    "Error": "Text contrast"
+  },
+  {
+    "Category": "Health and Fitness",
+    "Name": "8fit",
+    "Error": "Item label"
+  },
+  {
+    "Category": "Health and Fitness",
+    "Name": "8fit",
+    "Error": "Clickable items"
+  },
+  {
+    "Category": "Health and Fitness",
+    "Name": "CVS",
+    "Error": "Editable item label"
+  },
+  {
+    "Category": "Health and Fitness",
+    "Name": "CVS",
+    "Error": "Item descriptions"
+  },
+  {
+    "Category": "Health and Fitness",
+    "Name": "CVS",
+    "Error": "Text contrast"
+  },
+  {
+    "Category": "Health and Fitness",
+    "Name": "CVS",
+    "Error": "Item label"
+  },
+  {
+    "Category": "Health and Fitness",
+    "Name": "CVS",
+    "Error": "Item type label"
+  },
+  {
+    "Category": "Health and Fitness",
+    "Name": "CVS",
+    "Error": "Clickable items"
+  },
+  {
+    "Category": "Health and Fitness",
+    "Name": "CVS",
+    "Error": "Touch target"
+  },
+  {
+    "Category": "Health and Fitness",
+    "Name": "CVS",
+    "Error": "Image contrast"
+  },
+  {
+    "Category": "Health and Fitness",
+    "Name": "Fit",
+    "Error": "Item descriptions"
+  },
+  {
+    "Category": "Health and Fitness",
+    "Name": "Fit",
+    "Error": "Text contrast"
+  },
+  {
+    "Category": "Health and Fitness",
+    "Name": "Fit",
+    "Error": "Item label"
+  },
+  {
+    "Category": "Health and Fitness",
+    "Name": "Fit",
+    "Error": "Clickable items"
+  },
+  {
+    "Category": "Health and Fitness",
+    "Name": "Fit",
+    "Error": "Touch target"
+  },
+  {
+    "Category": "Health and Fitness",
+    "Name": "Fit",
+    "Error": "Image contrast"
+  },
+  {
+    "Category": "Health and Fitness",
+    "Name": "Fitbit",
+    "Error": "Item descriptions"
+  },
+  {
+    "Category": "Health and Fitness",
+    "Name": "Fitbit",
+    "Error": "Text contrast"
+  },
+  {
+    "Category": "Health and Fitness",
+    "Name": "Fitbit",
+    "Error": "Item label"
+  },
+  {
+    "Category": "Health and Fitness",
+    "Name": "Fitbit",
+    "Error": "Clickable items"
+  },
+  {
+    "Category": "Health and Fitness",
+    "Name": "Fitbit",
+    "Error": "Touch target"
+  },
+  {
+    "Category": "Health and Fitness",
+    "Name": "Fitbit",
+    "Error": "Image contrast"
+  },
+  {
+    "Category": "Health and Fitness",
+    "Name": "Headspace",
+    "Error": "Touch target"
+  },
+  {
+    "Category": "Health and Fitness",
+    "Name": "Headspace",
+    "Error": "Item descriptions"
+  },
+  {
+    "Category": "Health and Fitness",
+    "Name": "Headspace",
+    "Error": "Text contrast"
+  },
+  {
+    "Category": "Health and Fitness",
+    "Name": "Headspace",
+    "Error": "Item label"
+  },
+  {
+    "Category": "Health and Fitness",
+    "Name": "Headspace",
+    "Error": "Image contrast"
+  },
+  {
+    "Category": "Health and Fitness",
+    "Name": "Lose It!",
+    "Error": "Item descriptions"
+  },
+  {
+    "Category": "Health and Fitness",
+    "Name": "Lose It!",
+    "Error": "Text contrast"
+  },
+  {
+    "Category": "Health and Fitness",
+    "Name": "Lose It!",
+    "Error": "Item label"
+  },
+  {
+    "Category": "Health and Fitness",
+    "Name": "Lose It!",
+    "Error": "Clickable items"
+  },
+  {
+    "Category": "Health and Fitness",
+    "Name": "Lose It!",
+    "Error": "Touch target"
+  },
+  {
+    "Category": "Health and Fitness",
+    "Name": "Lose It!",
+    "Error": "Image contrast"
+  },
+  {
+    "Category": "Health and Fitness",
+    "Name": "My Calendar",
+    "Error": "Text contrast"
+  },
+  {
+    "Category": "Health and Fitness",
+    "Name": "My Calendar",
+    "Error": "Item descriptions"
+  },
+  {
+    "Category": "Health and Fitness",
+    "Name": "My Calendar",
+    "Error": "Touch target"
+  },
+  {
+    "Category": "Health and Fitness",
+    "Name": "My Calendar",
+    "Error": "Item label"
+  },
+  {
+    "Category": "Health and Fitness",
+    "Name": "My Calendar",
+    "Error": "Image contrast"
+  },
+  {
+    "Category": "Health and Fitness",
+    "Name": "MyFitnessPal",
+    "Error": "Item descriptions"
+  },
+  {
+    "Category": "Health and Fitness",
+    "Name": "MyFitnessPal",
+    "Error": "Text contrast"
+  },
+  {
+    "Category": "Health and Fitness",
+    "Name": "MyFitnessPal",
+    "Error": "Item label"
+  },
+  {
+    "Category": "Health and Fitness",
+    "Name": "MyFitnessPal",
+    "Error": "Clickable items"
+  },
+  {
+    "Category": "Health and Fitness",
+    "Name": "MyFitnessPal",
+    "Error": "Touch target"
+  },
+  {
+    "Category": "Health and Fitness",
+    "Name": "MyFitnessPal",
+    "Error": "Image contrast"
+  },
+  {
+    "Category": "Health and Fitness",
+    "Name": "Pacer",
+    "Error": "Item descriptions"
+  },
+  {
+    "Category": "Health and Fitness",
+    "Name": "Pacer",
+    "Error": "Text contrast"
+  },
+  {
+    "Category": "Health and Fitness",
+    "Name": "Pacer",
+    "Error": "Item label"
+  },
+  {
+    "Category": "Health and Fitness",
+    "Name": "Pacer",
+    "Error": "Clickable items"
+  },
+  {
+    "Category": "Health and Fitness",
+    "Name": "Pacer",
+    "Error": "Touch target"
+  },
+  {
+    "Category": "Health and Fitness",
+    "Name": "Pacer",
+    "Error": "Image contrast"
+  },
+  {
+    "Category": "Maps and Navigation",
+    "Name": "DigiHUD",
+    "Error": "Item descriptions"
+  },
+  {
+    "Category": "Maps and Navigation",
+    "Name": "DigiHUD",
+    "Error": "Touch target"
+  },
+  {
+    "Category": "Maps and Navigation",
+    "Name": "DigiHUD",
+    "Error": "Item label"
+  },
+  {
+    "Category": "Maps and Navigation",
+    "Name": "DigiHUD",
+    "Error": "Image contrast"
+  },
+  {
+    "Category": "Maps and Navigation",
+    "Name": "GPS JoyStick",
+    "Error": "Item descriptions"
+  },
+  {
+    "Category": "Maps and Navigation",
+    "Name": "GPS JoyStick",
+    "Error": "Text contrast"
+  },
+  {
+    "Category": "Maps and Navigation",
+    "Name": "GPS JoyStick",
+    "Error": "Item label"
+  },
+  {
+    "Category": "Maps and Navigation",
+    "Name": "GPS JoyStick",
+    "Error": "Clickable items"
+  },
+  {
+    "Category": "Maps and Navigation",
+    "Name": "GPS JoyStick",
+    "Error": "Touch target"
+  },
+  {
+    "Category": "Maps and Navigation",
+    "Name": "GPS JoyStick",
+    "Error": "Image contrast"
+  },
+  {
+    "Category": "Maps and Navigation",
+    "Name": "Karta GPS",
+    "Error": "Item descriptions"
+  },
+  {
+    "Category": "Maps and Navigation",
+    "Name": "Karta GPS",
+    "Error": "Text contrast"
+  },
+  {
+    "Category": "Maps and Navigation",
+    "Name": "Karta GPS",
+    "Error": "Item label"
+  },
+  {
+    "Category": "Maps and Navigation",
+    "Name": "Karta GPS",
+    "Error": "Clickable items"
+  },
+  {
+    "Category": "Maps and Navigation",
+    "Name": "Karta GPS",
+    "Error": "Touch target"
+  },
+  {
+    "Category": "Maps and Navigation",
+    "Name": "Karta GPS",
+    "Error": "Image contrast"
+  },
+  {
+    "Category": "Maps and Navigation",
+    "Name": "Lyft",
+    "Error": "Touch target"
+  },
+  {
+    "Category": "Maps and Navigation",
+    "Name": "Lyft",
+    "Error": "Clickable items"
+  },
+  {
+    "Category": "Maps and Navigation",
+    "Name": "Lyft",
+    "Error": "Text contrast"
+  },
+  {
+    "Category": "Maps and Navigation",
+    "Name": "Lyft",
+    "Error": "Item label"
+  },
+  {
+    "Category": "Maps and Navigation",
+    "Name": "Lyft",
+    "Error": "Image contrast"
+  },
+  {
+    "Category": "Maps and Navigation",
+    "Name": "Moovit",
+    "Error": "Touch target"
+  },
+  {
+    "Category": "Maps and Navigation",
+    "Name": "Moovit",
+    "Error": "Item descriptions"
+  },
+  {
+    "Category": "Maps and Navigation",
+    "Name": "Moovit",
+    "Error": "Text contrast"
+  },
+  {
+    "Category": "Maps and Navigation",
+    "Name": "Moovit",
+    "Error": "Item label"
+  },
+  {
+    "Category": "Maps and Navigation",
+    "Name": "Moovit",
+    "Error": "Image contrast"
+  },
+  {
+    "Category": "Maps and Navigation",
+    "Name": "Parkmobile",
+    "Error": "Touch target"
+  },
+  {
+    "Category": "Maps and Navigation",
+    "Name": "Parkmobile",
+    "Error": "Item descriptions"
+  },
+  {
+    "Category": "Maps and Navigation",
+    "Name": "Parkmobile",
+    "Error": "Text contrast"
+  },
+  {
+    "Category": "Maps and Navigation",
+    "Name": "Parkmobile",
+    "Error": "Item label"
+  },
+  {
+    "Category": "Maps and Navigation",
+    "Name": "Parkmobile",
+    "Error": "Clickable items"
+  },
+  {
+    "Category": "Maps and Navigation",
+    "Name": "Speedometer and Odometer",
+    "Error": "Touch target"
+  },
+  {
+    "Category": "Maps and Navigation",
+    "Name": "Speedometer and Odometer",
+    "Error": "Clickable items"
+  },
+  {
+    "Category": "Maps and Navigation",
+    "Name": "Speedometer and Odometer",
+    "Error": "Text contrast"
+  },
+  {
+    "Category": "Maps and Navigation",
+    "Name": "Speedometer and Odometer",
+    "Error": "Item label"
+  },
+  {
+    "Category": "Maps and Navigation",
+    "Name": "Speedometer and Odometer",
+    "Error": "Image contrast"
+  },
+  {
+    "Category": "Maps and Navigation",
+    "Name": "Transit",
+    "Error": "Item descriptions"
+  },
+  {
+    "Category": "Maps and Navigation",
+    "Name": "Transit",
+    "Error": "Text contrast"
+  },
+  {
+    "Category": "Maps and Navigation",
+    "Name": "Transit",
+    "Error": "Item label"
+  },
+  {
+    "Category": "Maps and Navigation",
+    "Name": "Transit",
+    "Error": "Item type label"
+  },
+  {
+    "Category": "Maps and Navigation",
+    "Name": "Transit",
+    "Error": "Clickable items"
+  },
+  {
+    "Category": "Maps and Navigation",
+    "Name": "Transit",
+    "Error": "Touch target"
+  },
+  {
+    "Category": "Maps and Navigation",
+    "Name": "Transit",
+    "Error": "Image contrast"
+  },
+  {
+    "Category": "Maps and Navigation",
+    "Name": "Uber",
+    "Error": "Editable item label"
+  },
+  {
+    "Category": "Maps and Navigation",
+    "Name": "Uber",
+    "Error": "Item descriptions"
+  },
+  {
+    "Category": "Maps and Navigation",
+    "Name": "Uber",
+    "Error": "Text contrast"
+  },
+  {
+    "Category": "Maps and Navigation",
+    "Name": "Uber",
+    "Error": "Item label"
+  },
+  {
+    "Category": "Maps and Navigation",
+    "Name": "Uber",
+    "Error": "Item type label"
+  },
+  {
+    "Category": "Maps and Navigation",
+    "Name": "Uber",
+    "Error": "Clickable items"
+  },
+  {
+    "Category": "Maps and Navigation",
+    "Name": "Uber",
+    "Error": "Touch target"
+  },
+  {
+    "Category": "Maps and Navigation",
+    "Name": "Uber",
+    "Error": "Image contrast"
+  },
+  {
+    "Category": "Maps and Navigation",
+    "Name": "Waze",
+    "Error": "Item descriptions"
+  },
+  {
+    "Category": "Maps and Navigation",
+    "Name": "Waze",
+    "Error": "Text contrast"
+  },
+  {
+    "Category": "Maps and Navigation",
+    "Name": "Waze",
+    "Error": "Item label"
+  },
+  {
+    "Category": "Maps and Navigation",
+    "Name": "Waze",
+    "Error": "Clickable items"
+  },
+  {
+    "Category": "Maps and Navigation",
+    "Name": "Waze",
+    "Error": "Touch target"
+  },
+  {
+    "Category": "Maps and Navigation",
+    "Name": "Waze",
+    "Error": "Image contrast"
+  },
+  {
+    "Category": "Maps and Navigation",
+    "Name": "Waze",
+    "Error": "Link"
+  },
+  {
+    "Category": "Medical",
+    "Name": "CareZone",
+    "Error": "Item descriptions"
+  },
+  {
+    "Category": "Medical",
+    "Name": "CareZone",
+    "Error": "Text contrast"
+  },
+  {
+    "Category": "Medical",
+    "Name": "CareZone",
+    "Error": "Item label"
+  },
+  {
+    "Category": "Medical",
+    "Name": "CareZone",
+    "Error": "Clickable items"
+  },
+  {
+    "Category": "Medical",
+    "Name": "CareZone",
+    "Error": "Touch target"
+  },
+  {
+    "Category": "Medical",
+    "Name": "CareZone",
+    "Error": "Image contrast"
+  },
+  {
+    "Category": "Medical",
+    "Name": "Doctor On Demand",
+    "Error": "Item descriptions"
+  },
+  {
+    "Category": "Medical",
+    "Name": "Doctor On Demand",
+    "Error": "Text contrast"
+  },
+  {
+    "Category": "Medical",
+    "Name": "Doctor On Demand",
+    "Error": "Item label"
+  },
+  {
+    "Category": "Medical",
+    "Name": "Doctor On Demand",
+    "Error": "Clickable items"
+  },
+  {
+    "Category": "Medical",
+    "Name": "Doctor On Demand",
+    "Error": "Touch target"
+  },
+  {
+    "Category": "Medical",
+    "Name": "Doctor On Demand",
+    "Error": "Image contrast"
+  },
+  {
+    "Category": "Medical",
+    "Name": "Ear Spy",
+    "Error": "Text contrast"
+  },
+  {
+    "Category": "Medical",
+    "Name": "Ear Spy",
+    "Error": "Clickable items"
+  },
+  {
+    "Category": "Medical",
+    "Name": "Ear Spy",
+    "Error": "Touch target"
+  },
+  {
+    "Category": "Medical",
+    "Name": "Ear Spy",
+    "Error": "Item label"
+  },
+  {
+    "Category": "Medical",
+    "Name": "Ear Spy",
+    "Error": "Item descriptions"
+  },
+  {
+    "Category": "Medical",
+    "Name": "Express Care",
+    "Error": "Touch target"
+  },
+  {
+    "Category": "Medical",
+    "Name": "Express Care",
+    "Error": "Item descriptions"
+  },
+  {
+    "Category": "Medical",
+    "Name": "Express Care",
+    "Error": "Text contrast"
+  },
+  {
+    "Category": "Medical",
+    "Name": "Express Care",
+    "Error": "Image contrast"
+  },
+  {
+    "Category": "Medical",
+    "Name": "FollowMyHealth?",
+    "Error": "Text contrast"
+  },
+  {
+    "Category": "Medical",
+    "Name": "FollowMyHealth?",
+    "Error": "Item descriptions"
+  },
+  {
+    "Category": "Medical",
+    "Name": "FollowMyHealth?",
+    "Error": "Touch target"
+  },
+  {
+    "Category": "Medical",
+    "Name": "FollowMyHealth?",
+    "Error": "Item label"
+  },
+  {
+    "Category": "Medical",
+    "Name": "FollowMyHealth?",
+    "Error": "Image contrast"
+  },
+  {
+    "Category": "Medical",
+    "Name": "GoodRx",
+    "Error": "Text contrast"
+  },
+  {
+    "Category": "Medical",
+    "Name": "GoodRx",
+    "Error": "Item descriptions"
+  },
+  {
+    "Category": "Medical",
+    "Name": "GoodRx",
+    "Error": "Touch target"
+  },
+  {
+    "Category": "Medical",
+    "Name": "GoodRx",
+    "Error": "Item label"
+  },
+  {
+    "Category": "Medical",
+    "Name": "GoodRx",
+    "Error": "Image contrast"
+  },
+  {
+    "Category": "Medical",
+    "Name": "Ovia Parenting",
+    "Error": "Item descriptions"
+  },
+  {
+    "Category": "Medical",
+    "Name": "Ovia Parenting",
+    "Error": "Text contrast"
+  },
+  {
+    "Category": "Medical",
+    "Name": "Ovia Parenting",
+    "Error": "Item label"
+  },
+  {
+    "Category": "Medical",
+    "Name": "Ovia Parenting",
+    "Error": "Clickable items"
+  },
+  {
+    "Category": "Medical",
+    "Name": "Ovia Parenting",
+    "Error": "Touch target"
+  },
+  {
+    "Category": "Medical",
+    "Name": "Ovia Parenting",
+    "Error": "Image contrast"
+  },
+  {
+    "Category": "Medical",
+    "Name": "Ovia Pregnancy",
+    "Error": "Touch target"
+  },
+  {
+    "Category": "Medical",
+    "Name": "Ovia Pregnancy",
+    "Error": "Item descriptions"
+  },
+  {
+    "Category": "Medical",
+    "Name": "Ovia Pregnancy",
+    "Error": "Text contrast"
+  },
+  {
+    "Category": "Medical",
+    "Name": "Ovia Pregnancy",
+    "Error": "Item label"
+  },
+  {
+    "Category": "Medical",
+    "Name": "Ovia Pregnancy",
+    "Error": "Image contrast"
+  },
+  {
+    "Category": "Medical",
+    "Name": "Pregnancy",
+    "Error": "Touch target"
+  },
+  {
+    "Category": "Medical",
+    "Name": "Pregnancy",
+    "Error": "Item descriptions"
+  },
+  {
+    "Category": "Medical",
+    "Name": "Pregnancy",
+    "Error": "Text contrast"
+  },
+  {
+    "Category": "Medical",
+    "Name": "Pregnancy",
+    "Error": "Item label"
+  },
+  {
+    "Category": "Medical",
+    "Name": "Pregnancy +",
+    "Error": "Item descriptions"
+  },
+  {
+    "Category": "Medical",
+    "Name": "Pregnancy +",
+    "Error": "Text contrast"
+  },
+  {
+    "Category": "Medical",
+    "Name": "Pregnancy +",
+    "Error": "Item label"
+  },
+  {
+    "Category": "Medical",
+    "Name": "Pregnancy +",
+    "Error": "Item type label"
+  },
+  {
+    "Category": "Medical",
+    "Name": "Pregnancy +",
+    "Error": "Touch target"
+  },
+  {
+    "Category": "Medical",
+    "Name": "Pregnancy +",
+    "Error": "Image contrast"
+  },
+  {
+    "Category": "Productivity",
+    "Name": "�Flashlight",
+    "Error": "Item label"
+  },
+  {
+    "Category": "Productivity",
+    "Name": "�Flashlight",
+    "Error": "Image contrast"
+  },
+  {
+    "Category": "Productivity",
+    "Name": "Adobe Acrobat",
+    "Error": "Item descriptions"
+  },
+  {
+    "Category": "Productivity",
+    "Name": "Adobe Acrobat",
+    "Error": "Text contrast"
+  },
+  {
+    "Category": "Productivity",
+    "Name": "Adobe Acrobat",
+    "Error": "Item label"
+  },
+  {
+    "Category": "Productivity",
+    "Name": "Adobe Acrobat",
+    "Error": "Clickable items"
+  },
+  {
+    "Category": "Productivity",
+    "Name": "Adobe Acrobat",
+    "Error": "Touch target"
+  },
+  {
+    "Category": "Productivity",
+    "Name": "Adobe Acrobat",
+    "Error": "Image contrast"
+  },
+  {
+    "Category": "Productivity",
+    "Name": "Alarm Clock for Me",
+    "Error": "Item descriptions"
+  },
+  {
+    "Category": "Productivity",
+    "Name": "Alarm Clock for Me",
+    "Error": "Text contrast"
+  },
+  {
+    "Category": "Productivity",
+    "Name": "Alarm Clock for Me",
+    "Error": "Item label"
+  },
+  {
+    "Category": "Productivity",
+    "Name": "Alarm Clock for Me",
+    "Error": "Clickable items"
+  },
+  {
+    "Category": "Productivity",
+    "Name": "Alarm Clock for Me",
+    "Error": "Touch target"
+  },
+  {
+    "Category": "Productivity",
+    "Name": "Alarm Clock for Me",
+    "Error": "Image contrast"
+  },
+  {
+    "Category": "Productivity",
+    "Name": "Brightest Flashlight",
+    "Error": "Touch target"
+  },
+  {
+    "Category": "Productivity",
+    "Name": "Brightest Flashlight",
+    "Error": "Item descriptions"
+  },
+  {
+    "Category": "Productivity",
+    "Name": "Brightest Flashlight",
+    "Error": "Text contrast"
+  },
+  {
+    "Category": "Productivity",
+    "Name": "Brightest Flashlight",
+    "Error": "Item label"
+  },
+  {
+    "Category": "Productivity",
+    "Name": "Brightest Flashlight",
+    "Error": "Image contrast"
+  },
+  {
+    "Category": "Productivity",
+    "Name": "Content Transfer",
+    "Error": "Touch target"
+  },
+  {
+    "Category": "Productivity",
+    "Name": "Content Transfer",
+    "Error": "Text contrast"
+  },
+  {
+    "Category": "Productivity",
+    "Name": "Content Transfer",
+    "Error": "Item label"
+  },
+  {
+    "Category": "Productivity",
+    "Name": "Content Transfer",
+    "Error": "Image contrast"
+  },
+  {
+    "Category": "Productivity",
+    "Name": "Docs",
+    "Error": "Touch target"
+  },
+  {
+    "Category": "Productivity",
+    "Name": "Docs",
+    "Error": "Text contrast"
+  },
+  {
+    "Category": "Productivity",
+    "Name": "Docs",
+    "Error": "Image contrast"
+  },
+  {
+    "Category": "Productivity",
+    "Name": "Dropbox",
+    "Error": "Touch target"
+  },
+  {
+    "Category": "Productivity",
+    "Name": "Dropbox",
+    "Error": "Item descriptions"
+  },
+  {
+    "Category": "Productivity",
+    "Name": "Dropbox",
+    "Error": "Text contrast"
+  },
+  {
+    "Category": "Productivity",
+    "Name": "Dropbox",
+    "Error": "Item label"
+  },
+  {
+    "Category": "Productivity",
+    "Name": "Kika Keyboard",
+    "Error": "Touch target"
+  },
+  {
+    "Category": "Productivity",
+    "Name": "Kika Keyboard",
+    "Error": "Clickable items"
+  },
+  {
+    "Category": "Productivity",
+    "Name": "Kika Keyboard",
+    "Error": "Text contrast"
+  },
+  {
+    "Category": "Productivity",
+    "Name": "Kika Keyboard",
+    "Error": "Image contrast"
+  },
+  {
+    "Category": "Productivity",
+    "Name": "Kika Keyboard",
+    "Error": "Item label"
+  },
+  {
+    "Category": "Productivity",
+    "Name": "Slides",
+    "Error": "Touch target"
+  },
+  {
+    "Category": "Productivity",
+    "Name": "Slides",
+    "Error": "Text contrast"
+  },
+  {
+    "Category": "Productivity",
+    "Name": "Slides",
+    "Error": "Image contrast"
+  },
+  {
+    "Category": "Productivity",
+    "Name": "Slides",
+    "Error": "Item label"
+  },
+  {
+    "Category": "Productivity",
+    "Name": "Word",
+    "Error": "Text contrast"
+  },
+  {
+    "Category": "Productivity",
+    "Name": "Word",
+    "Error": "Item descriptions"
+  },
+  {
+    "Category": "Productivity",
+    "Name": "Word",
+    "Error": "Touch target"
+  },
+  {
+    "Category": "Shopping",
+    "Name": "Amazon Shopping",
+    "Error": "Item descriptions"
+  },
+  {
+    "Category": "Shopping",
+    "Name": "Amazon Shopping",
+    "Error": "Text contrast"
+  },
+  {
+    "Category": "Shopping",
+    "Name": "Amazon Shopping",
+    "Error": "Item label"
+  },
+  {
+    "Category": "Shopping",
+    "Name": "Amazon Shopping",
+    "Error": "Item type label"
+  },
+  {
+    "Category": "Shopping",
+    "Name": "Amazon Shopping",
+    "Error": "Clickable items"
+  },
+  {
+    "Category": "Shopping",
+    "Name": "Amazon Shopping",
+    "Error": "Touch target"
+  },
+  {
+    "Category": "Shopping",
+    "Name": "Amazon Shopping",
+    "Error": "Image contrast"
+  },
+  {
+    "Category": "Shopping",
+    "Name": "CL Mobile - Classifieds for Craigslist",
+    "Error": "Text contrast"
+  },
+  {
+    "Category": "Shopping",
+    "Name": "CL Mobile - Classifieds for Craigslist",
+    "Error": "Item descriptions"
+  },
+  {
+    "Category": "Shopping",
+    "Name": "CL Mobile - Classifieds for Craigslist",
+    "Error": "Touch target"
+  },
+  {
+    "Category": "Shopping",
+    "Name": "CL Mobile - Classifieds for Craigslist",
+    "Error": "Item label"
+  },
+  {
+    "Category": "Shopping",
+    "Name": "CL Mobile - Classifieds for Craigslist",
+    "Error": "Clickable items"
+  },
+  {
+    "Category": "Shopping",
+    "Name": "eBay",
+    "Error": "Touch target"
+  },
+  {
+    "Category": "Shopping",
+    "Name": "eBay",
+    "Error": "Item type label"
+  },
+  {
+    "Category": "Shopping",
+    "Name": "eBay",
+    "Error": "Item descriptions"
+  },
+  {
+    "Category": "Shopping",
+    "Name": "eBay",
+    "Error": "Text contrast"
+  },
+  {
+    "Category": "Shopping",
+    "Name": "eBay",
+    "Error": "Clickable items"
+  },
+  {
+    "Category": "Shopping",
+    "Name": "Flipp",
+    "Error": "Item descriptions"
+  },
+  {
+    "Category": "Shopping",
+    "Name": "Flipp",
+    "Error": "Text contrast"
+  },
+  {
+    "Category": "Shopping",
+    "Name": "Flipp",
+    "Error": "Item label"
+  },
+  {
+    "Category": "Shopping",
+    "Name": "Flipp",
+    "Error": "Clickable items"
+  },
+  {
+    "Category": "Shopping",
+    "Name": "Flipp",
+    "Error": "Touch target"
+  },
+  {
+    "Category": "Shopping",
+    "Name": "Flipp",
+    "Error": "Image contrast"
+  },
+  {
+    "Category": "Shopping",
+    "Name": "Groupon",
+    "Error": "Item descriptions"
+  },
+  {
+    "Category": "Shopping",
+    "Name": "Groupon",
+    "Error": "Text contrast"
+  },
+  {
+    "Category": "Shopping",
+    "Name": "Groupon",
+    "Error": "Item label"
+  },
+  {
+    "Category": "Shopping",
+    "Name": "Groupon",
+    "Error": "Clickable items"
+  },
+  {
+    "Category": "Shopping",
+    "Name": "Groupon",
+    "Error": "Touch target"
+  },
+  {
+    "Category": "Shopping",
+    "Name": "Groupon",
+    "Error": "Image contrast"
+  },
+  {
+    "Category": "Shopping",
+    "Name": "letgo",
+    "Error": "Item descriptions"
+  },
+  {
+    "Category": "Shopping",
+    "Name": "letgo",
+    "Error": "Text contrast"
+  },
+  {
+    "Category": "Shopping",
+    "Name": "letgo",
+    "Error": "Item label"
+  },
+  {
+    "Category": "Shopping",
+    "Name": "letgo",
+    "Error": "Clickable items"
+  },
+  {
+    "Category": "Shopping",
+    "Name": "letgo",
+    "Error": "Touch target"
+  },
+  {
+    "Category": "Shopping",
+    "Name": "letgo",
+    "Error": "Image contrast"
+  },
+  {
+    "Category": "Shopping",
+    "Name": "OfferUp",
+    "Error": "Item descriptions"
+  },
+  {
+    "Category": "Shopping",
+    "Name": "OfferUp",
+    "Error": "Text contrast"
+  },
+  {
+    "Category": "Shopping",
+    "Name": "OfferUp",
+    "Error": "Item label"
+  },
+  {
+    "Category": "Shopping",
+    "Name": "OfferUp",
+    "Error": "Clickable items"
+  },
+  {
+    "Category": "Shopping",
+    "Name": "OfferUp",
+    "Error": "Touch target"
+  },
+  {
+    "Category": "Shopping",
+    "Name": "OfferUp",
+    "Error": "Image contrast"
+  },
+  {
+    "Category": "Shopping",
+    "Name": "Poshmark",
+    "Error": "Touch target"
+  },
+  {
+    "Category": "Shopping",
+    "Name": "Poshmark",
+    "Error": "Item descriptions"
+  },
+  {
+    "Category": "Shopping",
+    "Name": "Poshmark",
+    "Error": "Text contrast"
+  },
+  {
+    "Category": "Shopping",
+    "Name": "Poshmark",
+    "Error": "Image contrast"
+  },
+  {
+    "Category": "Shopping",
+    "Name": "Poshmark",
+    "Error": "Item label"
+  },
+  {
+    "Category": "Shopping",
+    "Name": "Walmart",
+    "Error": "Touch target"
+  },
+  {
+    "Category": "Shopping",
+    "Name": "Walmart",
+    "Error": "Item descriptions"
+  },
+  {
+    "Category": "Shopping",
+    "Name": "Walmart",
+    "Error": "Text contrast"
+  },
+  {
+    "Category": "Shopping",
+    "Name": "Walmart",
+    "Error": "Image contrast"
+  },
+  {
+    "Category": "Shopping",
+    "Name": "Walmart",
+    "Error": "Item label"
+  },
+  {
+    "Category": "Shopping",
+    "Name": "Wish",
+    "Error": "Touch target"
+  },
+  {
+    "Category": "Shopping",
+    "Name": "Wish",
+    "Error": "Clickable items"
+  },
+  {
+    "Category": "Shopping",
+    "Name": "Wish",
+    "Error": "Text contrast"
+  },
+  {
+    "Category": "Shopping",
+    "Name": "Wish",
+    "Error": "Item label"
+  },
+  {
+    "Category": "Shopping",
+    "Name": "Wish",
+    "Error": "Image contrast"
+  },
+  {
+    "Category": "Social",
+    "Name": "Facebook",
+    "Error": "Editable item label"
+  },
+  {
+    "Category": "Social",
+    "Name": "Facebook",
+    "Error": "Item descriptions"
+  },
+  {
+    "Category": "Social",
+    "Name": "Facebook",
+    "Error": "Text contrast"
+  },
+  {
+    "Category": "Social",
+    "Name": "Facebook",
+    "Error": "Item label"
+  },
+  {
+    "Category": "Social",
+    "Name": "Facebook",
+    "Error": "Item type label"
+  },
+  {
+    "Category": "Social",
+    "Name": "Facebook",
+    "Error": "Touch target"
+  },
+  {
+    "Category": "Social",
+    "Name": "Facebook",
+    "Error": "Image contrast"
+  },
+  {
+    "Category": "Social",
+    "Name": "Instagram",
+    "Error": "Touch target"
+  },
+  {
+    "Category": "Social",
+    "Name": "Instagram",
+    "Error": "Item descriptions"
+  },
+  {
+    "Category": "Social",
+    "Name": "Instagram",
+    "Error": "Text contrast"
+  },
+  {
+    "Category": "Social",
+    "Name": "Instagram",
+    "Error": "Item label"
+  },
+  {
+    "Category": "Social",
+    "Name": "Instagram",
+    "Error": "Image contrast"
+  },
+  {
+    "Category": "Social",
+    "Name": "live.ly",
+    "Error": "Touch target"
+  },
+  {
+    "Category": "Social",
+    "Name": "live.ly",
+    "Error": "Item descriptions"
+  },
+  {
+    "Category": "Social",
+    "Name": "live.ly",
+    "Error": "Text contrast"
+  },
+  {
+    "Category": "Social",
+    "Name": "live.ly",
+    "Error": "Item label"
+  },
+  {
+    "Category": "Social",
+    "Name": "live.ly",
+    "Error": "Image contrast"
+  },
+  {
+    "Category": "Social",
+    "Name": "Live.me",
+    "Error": "Touch target"
+  },
+  {
+    "Category": "Social",
+    "Name": "Live.me",
+    "Error": "Clickable items"
+  },
+  {
+    "Category": "Social",
+    "Name": "Live.me",
+    "Error": "Text contrast"
+  },
+  {
+    "Category": "Social",
+    "Name": "Live.me",
+    "Error": "Item label"
+  },
+  {
+    "Category": "Social",
+    "Name": "Live.me",
+    "Error": "Image contrast"
+  },
+  {
+    "Category": "Social",
+    "Name": "musical.ly",
+    "Error": "Touch target"
+  },
+  {
+    "Category": "Social",
+    "Name": "musical.ly",
+    "Error": "Item descriptions"
+  },
+  {
+    "Category": "Social",
+    "Name": "musical.ly",
+    "Error": "Text contrast"
+  },
+  {
+    "Category": "Social",
+    "Name": "musical.ly",
+    "Error": "Item label"
+  },
+  {
+    "Category": "Social",
+    "Name": "musical.ly",
+    "Error": "Image contrast"
+  },
+  {
+    "Category": "Social",
+    "Name": "Pinterest",
+    "Error": "Item descriptions"
+  },
+  {
+    "Category": "Social",
+    "Name": "Pinterest",
+    "Error": "Text contrast"
+  },
+  {
+    "Category": "Social",
+    "Name": "Pinterest",
+    "Error": "Item label"
+  },
+  {
+    "Category": "Social",
+    "Name": "Pinterest",
+    "Error": "Clickable items"
+  },
+  {
+    "Category": "Social",
+    "Name": "Pinterest",
+    "Error": "Touch target"
+  },
+  {
+    "Category": "Social",
+    "Name": "Pinterest",
+    "Error": "Image contrast"
+  },
+  {
+    "Category": "Social",
+    "Name": "POF",
+    "Error": "Touch target"
+  },
+  {
+    "Category": "Social",
+    "Name": "POF",
+    "Error": "Item descriptions"
+  },
+  {
+    "Category": "Social",
+    "Name": "POF",
+    "Error": "Text contrast"
+  },
+  {
+    "Category": "Social",
+    "Name": "POF",
+    "Error": "Item label"
+  },
+  {
+    "Category": "Social",
+    "Name": "POF",
+    "Error": "Image contrast"
+  },
+  {
+    "Category": "Social",
+    "Name": "Snapchat",
+    "Error": "Editable item label"
+  },
+  {
+    "Category": "Social",
+    "Name": "Snapchat",
+    "Error": "Item descriptions"
+  },
+  {
+    "Category": "Social",
+    "Name": "Snapchat",
+    "Error": "Text contrast"
+  },
+  {
+    "Category": "Social",
+    "Name": "Snapchat",
+    "Error": "Item label"
+  },
+  {
+    "Category": "Social",
+    "Name": "Snapchat",
+    "Error": "Clickable items"
+  },
+  {
+    "Category": "Social",
+    "Name": "Snapchat",
+    "Error": "Touch target"
+  },
+  {
+    "Category": "Social",
+    "Name": "Snapchat",
+    "Error": "Image contrast"
+  },
+  {
+    "Category": "Social",
+    "Name": "TextNow",
+    "Error": "Touch target"
+  },
+  {
+    "Category": "Social",
+    "Name": "TextNow",
+    "Error": "Item descriptions"
+  },
+  {
+    "Category": "Social",
+    "Name": "TextNow",
+    "Error": "Text contrast"
+  },
+  {
+    "Category": "Social",
+    "Name": "TextNow",
+    "Error": "Item label"
+  },
+  {
+    "Category": "Social",
+    "Name": "TextNow",
+    "Error": "Image contrast"
+  },
+  {
+    "Category": "Social",
+    "Name": "Tumblr",
+    "Error": "Item descriptions"
+  },
+  {
+    "Category": "Social",
+    "Name": "Tumblr",
+    "Error": "Text contrast"
+  },
+  {
+    "Category": "Social",
+    "Name": "Tumblr",
+    "Error": "Item label"
+  },
+  {
+    "Category": "Social",
+    "Name": "Tumblr",
+    "Error": "Clickable items"
+  },
+  {
+    "Category": "Social",
+    "Name": "Tumblr",
+    "Error": "Touch target"
+  },
+  {
+    "Category": "Social",
+    "Name": "Tumblr",
+    "Error": "Image contrast"
+  }
+]
